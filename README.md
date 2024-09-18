@@ -27,6 +27,6 @@ WebRTC Group Call is a simple video chat application for multi-users based on Re
     npm install
     
     /* Run */
-    npm run dev
+    nodemon server.js
   </code>
 </pre>
